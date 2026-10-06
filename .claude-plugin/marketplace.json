@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "contact-follow-up-tracker",
+  "description": "Save contacts, encounters, and confirmed promises in a Google Drive log. Check who owes what to whom and when. Enable Cowork reminders when you choose.",
+  "owner": {
+    "name": "Rachael Quisel"
+  },
+  "plugins": [
+    {
+      "name": "contact-follow-up-tracker",
+      "displayName": "Contact Follow-Up Tracker",
+      "version": "0.1.2",
+      "description": "Save contacts, encounters, and confirmed promises in a Google Drive log. Check who owes what to whom and when. Enable Cowork reminders when you choose.",
+      "author": {
+        "name": "Rachael Quisel"
+      },
+      "license": "MIT",
+      "keywords": [
+        "contacts",
+        "promises",
+        "follow-ups",
+        "memory"
+      ],
+      "source": "./"
+    }
+  ]
+}
