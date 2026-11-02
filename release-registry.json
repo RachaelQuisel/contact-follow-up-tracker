@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "repository": "RachaelQuisel/contact-follow-up-tracker",
+  "packages": [
+    {
+      "name": "contact-follow-up-tracker",
+      "root": ".",
+      "version": "1.0.3",
+      "manifests": [
+        "plugin.json",
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "skills": [
+        "skills/contact-follow-up-tracker/SKILL.md"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "path": "skills/contact-follow-up-tracker/SKILL.md",
+      "version": "1.0.3",
+      "sha256": "093a1813bce5d792b7f55e2ecc12d268b9a6d72cc17ad8deed477c2bb193646d",
+      "source": "skills/contact-follow-up-tracker/SKILL.md",
+      "guide": "skills/contact-follow-up-tracker/README.md"
+    }
+  ],
+  "copies": []
+}
