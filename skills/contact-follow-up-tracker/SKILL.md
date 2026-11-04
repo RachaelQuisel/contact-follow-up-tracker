@@ -1,6 +1,6 @@
 ---
 name: contact-follow-up-tracker
-version: 1.0.3
+version: 1.0.4
 description: Save contacts, encounters, and confirmed promises in a Google Drive log. Use when the user says "I told Alex I'd send the outline Friday," "remind me to follow up with Jordan," "who do I owe," "what did I promise," or "brief me before my call with Sam." Also use for contact briefings, meeting notes, promise updates, and follow-up checks. Scheduled reminders require explicit opt-in and may repeat until the user acknowledges the visible output.
 compatibility: Requires Cowork and its connected Google Drive connector.
 ---

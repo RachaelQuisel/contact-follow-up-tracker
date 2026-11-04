@@ -5,7 +5,7 @@
     {
       "name": "contact-follow-up-tracker",
       "root": ".",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "manifests": [
         "plugin.json",
         ".claude-plugin/plugin.json",
@@ -19,8 +19,8 @@
   "skills": [
     {
       "path": "skills/contact-follow-up-tracker/SKILL.md",
-      "version": "1.0.3",
-      "sha256": "093a1813bce5d792b7f55e2ecc12d268b9a6d72cc17ad8deed477c2bb193646d",
+      "version": "1.0.4",
+      "sha256": "394ef9519ff483a4ef172687893aae1cc3a6adbfbc95c38e08ed01675c65c2b2",
       "source": "skills/contact-follow-up-tracker/SKILL.md",
       "guide": "skills/contact-follow-up-tracker/README.md"
     }
